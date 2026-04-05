@@ -57,12 +57,6 @@ A production-ready, fully responsive Single Page Application (SPA) for Little Le
 4. **Run the development server**
    ```bash
    npm run dev
-   ```
-
-5. **Build for production**
-   ```bash
-   npm run build
-   ```
 
 ##  Design Theme
 
@@ -142,24 +136,7 @@ The current implementation includes a **simulated payment flow** for demonstrati
   /styles
     - index.css         # Global styles import
     - fonts.css         # Google Fonts import
-```
 
-##  Deployment
-
-### Build
-
-```bash
-npm run build
-```
-
-This creates an optimized production build in the `dist` folder.
-
-### Hosting Options
-
-- **Netlify:** Connect repository and deploy automatically
-- **Vercel:** Import project and deploy
-- **GitHub Pages:** Use gh-pages package
-- **Traditional Hosting:** Upload `dist` folder contents
 
 ### Environment Variables
 
