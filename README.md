@@ -228,8 +228,8 @@ This project is created for Little Lemon Restaurant.
 ## 🤝 Support
 
 For issues or questions:
-- Email: info@littlelemon.com
-- Phone: +233 24 123 4567
+- Email: simonanab56@gmail.com
+- Phone: +233 0596247006
 
 ## 🎯 Performance Metrics
 
